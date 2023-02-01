@@ -3,6 +3,8 @@ import string
 import tkinter
 from tkinter import *
 
+# by l1nuvv
+
 # tkinter window
 window = Tk()
 window.title("Password Generator by l1nuvv")
